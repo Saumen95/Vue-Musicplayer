@@ -1,6 +1,8 @@
 # music-player
 
 ## Project setup
+cd <projectdir>
+Then Run
 ```
 yarn install
 ```
